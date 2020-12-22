@@ -15,9 +15,9 @@ public class App extends Application {
         return app;
     }
 
-    public SmartPhoneComponent getSmartPhoneComponent() {
-        return smartPhoneComponent;
-    }
+//    public SmartPhoneComponent getSmartPhoneComponent() {
+//        return smartPhoneComponent;
+//    }
 
 
     public static SmartPhoneComponent getMySmartPhoneComponent() {
